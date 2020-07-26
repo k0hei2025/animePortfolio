@@ -379,4 +379,11 @@ table a, #comments a{background-color:inherit;}
 
 	#header #quickinfo li{margin-right:0;}
 }
+.sound 
+{
+	position: absolute;
+	left: 80%;
+	top: 5rem;
+}
+
 
